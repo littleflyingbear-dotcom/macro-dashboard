@@ -1,0 +1,326 @@
+{
+  "updated_at": "2026-06-21 02:07:54",
+  "source_note": "示例数据。GitHub Actions 成功运行后会自动更新为抓取数据。",
+  "assets": [
+    {
+      "key": "USDCNY",
+      "name": "美元兑人民币",
+      "symbol": "USD/CNY",
+      "value": 6.7805,
+      "change_pct": 0.007,
+      "digits": 4
+    },
+    {
+      "key": "AUDCNY",
+      "name": "澳元兑人民币",
+      "symbol": "AUD/CNY",
+      "value": 4.815,
+      "change_pct": 0.166,
+      "digits": 4
+    },
+    {
+      "key": "EURCNY",
+      "name": "欧元兑人民币",
+      "symbol": "EUR/CNY",
+      "value": 7.8382,
+      "change_pct": 0.061,
+      "digits": 4
+    },
+    {
+      "key": "JPYCNY100",
+      "name": "100日元兑人民币",
+      "symbol": "100JPY/CNY",
+      "value": 4.2392,
+      "change_pct": 0.113,
+      "digits": 4
+    },
+    {
+      "key": "XAUUSD",
+      "name": "国际金价",
+      "symbol": "XAU/USD",
+      "value": 3411.2,
+      "change_pct": 0.229,
+      "digits": 2
+    },
+    {
+      "key": "XAUCNYG",
+      "name": "人民币金价估算",
+      "symbol": "CNY/克",
+      "value": 741.02,
+      "change_pct": 0.061,
+      "digits": 2
+    }
+  ],
+  "history": [
+    {
+      "date": "05-23",
+      "USDCNY": 6.816,
+      "AUDCNY": 4.751,
+      "EURCNY": 7.771,
+      "JPYCNY100": 4.212,
+      "XAUUSD": 3310.0,
+      "XAUCNYG": 727.97
+    },
+    {
+      "date": "05-24",
+      "USDCNY": 6.8165,
+      "AUDCNY": 4.759,
+      "EURCNY": 7.7758,
+      "JPYCNY100": 4.2168,
+      "XAUUSD": 3317.8,
+      "XAUCNYG": 728.42
+    },
+    {
+      "date": "05-25",
+      "USDCNY": 6.817,
+      "AUDCNY": 4.767,
+      "EURCNY": 7.7806,
+      "JPYCNY100": 4.2216,
+      "XAUUSD": 3325.6,
+      "XAUCNYG": 728.88
+    },
+    {
+      "date": "05-26",
+      "USDCNY": 6.8175,
+      "AUDCNY": 4.775,
+      "EURCNY": 7.7854,
+      "JPYCNY100": 4.2264,
+      "XAUUSD": 3333.4,
+      "XAUCNYG": 729.33
+    },
+    {
+      "date": "05-27",
+      "USDCNY": 6.818,
+      "AUDCNY": 4.759,
+      "EURCNY": 7.7902,
+      "JPYCNY100": 4.2152,
+      "XAUUSD": 3341.2,
+      "XAUCNYG": 729.78
+    },
+    {
+      "date": "05-28",
+      "USDCNY": 6.8085,
+      "AUDCNY": 4.767,
+      "EURCNY": 7.795,
+      "JPYCNY100": 4.22,
+      "XAUUSD": 3324.0,
+      "XAUCNYG": 730.24
+    },
+    {
+      "date": "05-29",
+      "USDCNY": 6.809,
+      "AUDCNY": 4.775,
+      "EURCNY": 7.7818,
+      "JPYCNY100": 4.2248,
+      "XAUUSD": 3331.8,
+      "XAUCNYG": 730.69
+    },
+    {
+      "date": "05-30",
+      "USDCNY": 6.8095,
+      "AUDCNY": 4.783,
+      "EURCNY": 7.7866,
+      "JPYCNY100": 4.2296,
+      "XAUUSD": 3339.6,
+      "XAUCNYG": 731.14
+    },
+    {
+      "date": "05-31",
+      "USDCNY": 6.81,
+      "AUDCNY": 4.767,
+      "EURCNY": 7.7914,
+      "JPYCNY100": 4.2184,
+      "XAUUSD": 3347.4,
+      "XAUCNYG": 731.59
+    },
+    {
+      "date": "06-01",
+      "USDCNY": 6.8105,
+      "AUDCNY": 4.775,
+      "EURCNY": 7.7962,
+      "JPYCNY100": 4.2232,
+      "XAUUSD": 3355.2,
+      "XAUCNYG": 732.04
+    },
+    {
+      "date": "06-02",
+      "USDCNY": 6.801,
+      "AUDCNY": 4.783,
+      "EURCNY": 7.801,
+      "JPYCNY100": 4.228,
+      "XAUUSD": 3338.0,
+      "XAUCNYG": 732.49
+    },
+    {
+      "date": "06-03",
+      "USDCNY": 6.8015,
+      "AUDCNY": 4.791,
+      "EURCNY": 7.8058,
+      "JPYCNY100": 4.2328,
+      "XAUUSD": 3345.8,
+      "XAUCNYG": 732.95
+    },
+    {
+      "date": "06-04",
+      "USDCNY": 6.802,
+      "AUDCNY": 4.775,
+      "EURCNY": 7.7926,
+      "JPYCNY100": 4.2216,
+      "XAUUSD": 3353.6,
+      "XAUCNYG": 733.4
+    },
+    {
+      "date": "06-05",
+      "USDCNY": 6.8025,
+      "AUDCNY": 4.783,
+      "EURCNY": 7.7974,
+      "JPYCNY100": 4.2264,
+      "XAUUSD": 3361.4,
+      "XAUCNYG": 733.85
+    },
+    {
+      "date": "06-06",
+      "USDCNY": 6.803,
+      "AUDCNY": 4.791,
+      "EURCNY": 7.8022,
+      "JPYCNY100": 4.2312,
+      "XAUUSD": 3369.2,
+      "XAUCNYG": 734.3
+    },
+    {
+      "date": "06-07",
+      "USDCNY": 6.7935,
+      "AUDCNY": 4.799,
+      "EURCNY": 7.807,
+      "JPYCNY100": 4.236,
+      "XAUUSD": 3352.0,
+      "XAUCNYG": 734.75
+    },
+    {
+      "date": "06-08",
+      "USDCNY": 6.794,
+      "AUDCNY": 4.783,
+      "EURCNY": 7.8118,
+      "JPYCNY100": 4.2248,
+      "XAUUSD": 3359.8,
+      "XAUCNYG": 735.2
+    },
+    {
+      "date": "06-09",
+      "USDCNY": 6.7945,
+      "AUDCNY": 4.791,
+      "EURCNY": 7.8166,
+      "JPYCNY100": 4.2296,
+      "XAUUSD": 3367.6,
+      "XAUCNYG": 735.65
+    },
+    {
+      "date": "06-10",
+      "USDCNY": 6.795,
+      "AUDCNY": 4.799,
+      "EURCNY": 7.8034,
+      "JPYCNY100": 4.2344,
+      "XAUUSD": 3375.4,
+      "XAUCNYG": 736.09
+    },
+    {
+      "date": "06-11",
+      "USDCNY": 6.7955,
+      "AUDCNY": 4.807,
+      "EURCNY": 7.8082,
+      "JPYCNY100": 4.2392,
+      "XAUUSD": 3383.2,
+      "XAUCNYG": 736.54
+    },
+    {
+      "date": "06-12",
+      "USDCNY": 6.786,
+      "AUDCNY": 4.791,
+      "EURCNY": 7.813,
+      "JPYCNY100": 4.228,
+      "XAUUSD": 3366.0,
+      "XAUCNYG": 736.99
+    },
+    {
+      "date": "06-13",
+      "USDCNY": 6.7865,
+      "AUDCNY": 4.799,
+      "EURCNY": 7.8178,
+      "JPYCNY100": 4.2328,
+      "XAUUSD": 3373.8,
+      "XAUCNYG": 737.44
+    },
+    {
+      "date": "06-14",
+      "USDCNY": 6.787,
+      "AUDCNY": 4.807,
+      "EURCNY": 7.8226,
+      "JPYCNY100": 4.2376,
+      "XAUUSD": 3381.6,
+      "XAUCNYG": 737.89
+    },
+    {
+      "date": "06-15",
+      "USDCNY": 6.7875,
+      "AUDCNY": 4.815,
+      "EURCNY": 7.8274,
+      "JPYCNY100": 4.2424,
+      "XAUUSD": 3389.4,
+      "XAUCNYG": 738.34
+    },
+    {
+      "date": "06-16",
+      "USDCNY": 6.788,
+      "AUDCNY": 4.799,
+      "EURCNY": 7.8142,
+      "JPYCNY100": 4.2312,
+      "XAUUSD": 3397.2,
+      "XAUCNYG": 738.78
+    },
+    {
+      "date": "06-17",
+      "USDCNY": 6.7785,
+      "AUDCNY": 4.807,
+      "EURCNY": 7.819,
+      "JPYCNY100": 4.236,
+      "XAUUSD": 3380.0,
+      "XAUCNYG": 739.23
+    },
+    {
+      "date": "06-18",
+      "USDCNY": 6.779,
+      "AUDCNY": 4.815,
+      "EURCNY": 7.8238,
+      "JPYCNY100": 4.2408,
+      "XAUUSD": 3387.8,
+      "XAUCNYG": 739.68
+    },
+    {
+      "date": "06-19",
+      "USDCNY": 6.7795,
+      "AUDCNY": 4.823,
+      "EURCNY": 7.8286,
+      "JPYCNY100": 4.2456,
+      "XAUUSD": 3395.6,
+      "XAUCNYG": 740.12
+    },
+    {
+      "date": "06-20",
+      "USDCNY": 6.78,
+      "AUDCNY": 4.807,
+      "EURCNY": 7.8334,
+      "JPYCNY100": 4.2344,
+      "XAUUSD": 3403.4,
+      "XAUCNYG": 740.57
+    },
+    {
+      "date": "06-21",
+      "USDCNY": 6.7805,
+      "AUDCNY": 4.815,
+      "EURCNY": 7.8382,
+      "JPYCNY100": 4.2392,
+      "XAUUSD": 3411.2,
+      "XAUCNYG": 741.02
+    }
+  ]
+}

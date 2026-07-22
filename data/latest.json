@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-21 02:56:44",
+  "updated_at": "2026-07-22 02:54:47",
   "source_note": "FX and gold from Yahoo Finance chart API. RMB gold price is estimated from XAU/USD and USD/CNY.",
   "errors": [
     "XAUUSD: HTTP Error 404: Not Found"
@@ -9,61 +9,52 @@
       "key": "USDCNY",
       "name": "美元兑人民币",
       "symbol": "USD/CNY",
-      "value": 6.766,
-      "change_pct": -0.096,
+      "value": 6.7694,
+      "change_pct": -0.046,
       "digits": 4
     },
     {
       "key": "AUDCNY",
       "name": "澳元兑人民币",
       "symbol": "AUD/CNY",
-      "value": 4.7259,
-      "change_pct": -0.011,
+      "value": 4.7414,
+      "change_pct": 0.027,
       "digits": 4
     },
     {
       "key": "EURCNY",
       "name": "欧元兑人民币",
       "symbol": "EUR/CNY",
-      "value": 7.6951,
-      "change_pct": -0.57,
+      "value": 7.7211,
+      "change_pct": -0.131,
       "digits": 4
     },
     {
       "key": "JPYCNY100",
       "name": "100日元兑人民币",
       "symbol": "100JPY/CNY",
-      "value": 4.1484,
-      "change_pct": -0.449,
+      "value": 4.145,
+      "change_pct": -0.552,
       "digits": 4
     },
     {
       "key": "XAUUSD",
       "name": "国际金价",
       "symbol": "XAU/USD",
-      "value": 4040.1,
-      "change_pct": 0.0,
+      "value": 4132.7,
+      "change_pct": 3.052,
       "digits": 2
     },
     {
       "key": "XAUCNYG",
       "name": "人民币金价估算",
       "symbol": "CNY/克",
-      "value": 878.85,
-      "change_pct": 0.0,
+      "value": 899.45,
+      "change_pct": 3.005,
       "digits": 2
     }
   ],
   "history": [
-    {
-      "date": "06-09",
-      "USDCNY": 6.7725,
-      "AUDCNY": 4.7566,
-      "EURCNY": 7.8123,
-      "JPYCNY100": 4.2226,
-      "XAUUSD": 4260.0,
-      "XAUCNYG": 927.58
-    },
     {
       "date": "06-10",
       "USDCNY": 6.7725,
@@ -317,13 +308,22 @@
       "XAUCNYG": null
     },
     {
-      "date": "07-21",
-      "USDCNY": 6.766,
-      "AUDCNY": 4.7259,
-      "EURCNY": 7.6951,
-      "JPYCNY100": 4.1484,
-      "XAUUSD": 4040.1,
-      "XAUCNYG": 878.85
+      "date": "07-20",
+      "USDCNY": 6.7725,
+      "AUDCNY": 4.7401,
+      "EURCNY": 7.7312,
+      "JPYCNY100": 4.168,
+      "XAUUSD": 4010.3,
+      "XAUCNYG": 873.21
+    },
+    {
+      "date": "07-22",
+      "USDCNY": 6.7694,
+      "AUDCNY": 4.7414,
+      "EURCNY": 7.7211,
+      "JPYCNY100": 4.145,
+      "XAUUSD": 4132.7,
+      "XAUCNYG": 899.45
     }
   ]
 }

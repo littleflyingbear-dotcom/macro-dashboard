@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-16 04:02:43",
+  "updated_at": "2026-09-17 04:09:52",
   "source_note": "FX and gold from Yahoo Finance chart API. RMB gold price is estimated from XAU/USD and USD/CNY.",
   "errors": [
     "XAUUSD: HTTP Error 404: Not Found"
@@ -9,45 +9,36 @@
       "key": "USDCNY",
       "name": "美元兑人民币",
       "symbol": "USD/CNY",
-      "value": 6.7092,
-      "change_pct": 0.015,
+      "value": 6.7078,
+      "change_pct": -0.051,
       "digits": 4
     },
     {
       "key": "AUDCNY",
       "name": "澳元兑人民币",
       "symbol": "AUD/CNY",
-      "value": 4.7794,
-      "change_pct": -0.173,
+      "value": 4.7657,
+      "change_pct": -0.333,
       "digits": 4
     },
     {
       "key": "EURCNY",
       "name": "欧元兑人民币",
       "symbol": "EUR/CNY",
-      "value": 7.7425,
-      "change_pct": -0.054,
+      "value": 7.6877,
+      "change_pct": -0.712,
       "digits": 4
     },
     {
       "key": "JPYCNY100",
       "name": "100日元兑人民币",
       "symbol": "100JPY/CNY",
-      "value": 4.313,
-      "change_pct": -0.727,
+      "value": 4.293,
+      "change_pct": -0.657,
       "digits": 4
     }
   ],
   "history": [
-    {
-      "date": "08-05",
-      "USDCNY": 6.7497,
-      "AUDCNY": 4.7632,
-      "EURCNY": 7.8006,
-      "JPYCNY100": 4.2826,
-      "XAUUSD": 4305.2,
-      "XAUCNYG": 934.26
-    },
     {
       "date": "08-06",
       "USDCNY": 6.7488,
@@ -301,11 +292,20 @@
       "XAUCNYG": 938.59
     },
     {
-      "date": "09-16",
-      "USDCNY": 6.7092,
-      "AUDCNY": 4.7794,
-      "EURCNY": 7.7425,
-      "JPYCNY100": 4.313,
+      "date": "09-15",
+      "USDCNY": 6.7112,
+      "AUDCNY": 4.7816,
+      "EURCNY": 7.7428,
+      "JPYCNY100": 4.3214,
+      "XAUUSD": 4332.8,
+      "XAUCNYG": 934.89
+    },
+    {
+      "date": "09-17",
+      "USDCNY": 6.7078,
+      "AUDCNY": 4.7657,
+      "EURCNY": 7.6877,
+      "JPYCNY100": 4.293,
       "XAUUSD": null,
       "XAUCNYG": null
     }
